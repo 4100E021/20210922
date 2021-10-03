@@ -30,25 +30,25 @@ the Free Software Foundation(自由軟件基金會) proposed(提議) to name its
 
 but Linux is not part of(屬於) the GNU project , and this name has not been unanimously(一致) recognized(認可) by the community(社會上).
 
-Linux was originally a free operating system for personal computers supporting Intel's x86 architecture.
+Linux was originally(起初) a free operating system for personal(個人的) computers supporting(支持) Intel's x86 architecture(架構).
 
-At present, Linux has been ported to more computer hardware platforms, far beyond any other operating system.
+At present(目前), Linux has been ported to(轉移到) more computer hardware platforms(硬件平台), far beyond(遠遠超越) any other operating system.
 
-Linux can run on servers and other large platforms, such as mainframes and supercomputers .
+Linux can run on servers(伺服器) and other large platforms, such as mainframes(大型電腦) and supercomputers .
 
-The 500 fastest supercomputers in the world have 100% implemented Linux packages or variants  .
+The 500 fastest supercomputers in the world have 100% implemented(實施) Linux packages(套件) or variants(變種)  .
 
-Linux is also widely used in embedded systems , such as mobile phones , tablets , routers , TVs , and electronic game consoles . 
+Linux is also widely(廣泛) used in embedded(嵌入式) systems , such as mobile(移動) phones , tablets(平板電腦) , routers(路由器) , TVs , and electronic game consoles(電子遊戲機) . 
 
-The Android operating system, which is widely used on mobile devices , is built on the Linux core.
+The Android operating system, which is widely used on mobile devices(設備) , is built on the Linux core.
 
-Under normal circumstances, Linux is packaged as a Linux package for personal computers and servers. 
+Under normal circumstances(正常情況), Linux is packaged as(被打包為) a Linux package for personal computers and servers. 
 
-Some popular mainstream Linux distributions, including Debian (and its derivative versions Ubuntu , Linux Mint ), 
+Some popular mainstream(主流) Linux distributions(發行版), including Debian (and its derivative versions Ubuntu , Linux Mint ), 
 
 Fedora (and related versions of Red Hat Enterprise Linux) , CentOS ) and openSUSE, etc. 
 
-Linux package contains the Linux kernel and practical support core programs and libraries, 
+Linux package contains(包含) the Linux kernel and practical support(實際支援) core programs and libraries, 
 
 usually with a large number of applications to meet the various needs of. 
 
