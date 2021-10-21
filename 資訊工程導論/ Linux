@@ -1,6 +1,6 @@
 Linux  is a free and open source(原始碼) of UNIX- operating system(作業系統) . 
 
-The operating system is the core(核心) of Linus Torvalds (萊納斯·托瓦茲)first released on October 5 , 
+The operating system is the core(核心) of Linus Torvalds (萊納斯·托瓦茲)first released(發布) on October 5 , 
 
 plus(加) the user space(空間) of the program application(應用程式) later, a Linux operating system. 
 
@@ -50,12 +50,13 @@ Fedora (and related versions of Red Hat Enterprise Linux) , CentOS ) and openSUS
 
 Linux package contains(包含) the Linux kernel and practical support(實際支援) core programs and libraries, 
 
-usually with a large number of applications to meet the various needs of. 
+usually with a large number of applications(應用程式) to meet the various(種類) needs of. 
 
-The Linux package used by personal computers usually contains X Window and a corresponding desktop environment, such as GNOME or KDE .
+The Linux package used by personal computers usually contains(包含) X Window and a corresponding(相應的) desktop(桌面) environment(環境), such as GNOME or KDE .
 
-Commonly used applications for desktop Linux operating systems ,
+Commonly(通常) used applications for desktop Linux operating systems ,
 
-including Firefox web browser, LibreOffice office software, GIMP image processing tools, etc.
+including Firefox web browser(瀏覽器), LibreOffice office software, GIMP image processing(圖像處理) tools(工具), etc.
 
 Since Linux is free software, anyone can create a Linux package that meets their needs.
+
