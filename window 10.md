@@ -8,7 +8,9 @@ and itself was released to manufacturing(製造業) on July 15, 2015, and broadl
 
 Windows 10 was made available(可用的) for download via MSDN and TechNet,
 
-as a free upgrade(升級) for retail copies(零售副本) of Windows 8 and Windows 8.1 users via(通過) the Windows Store,and to Windows 7 users via Windows Update.
+as a free upgrade(升級) for retail copies(零售副本) of Windows 8 and Windows 8.1 users via(通過) the Windows Store,
+
+and to Windows 7 users via Windows Update.
 
 Windows 10 receives(收到) new builds on an ongoing basis(處於持續進行狀態), which are available at no additional(額外的) cost(成本) to users,
 
