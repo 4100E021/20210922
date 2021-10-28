@@ -1,4 +1,4 @@
-Windows 10 is a major release of the Windows NT operating system developed by Microsoft(微軟).
+Windows 10 is a major release(推出) of the Windows NT operating system developed by Microsoft(微軟).
 
 It is the successor to Windows 8.1, which was released nearly two years earlier,
 
