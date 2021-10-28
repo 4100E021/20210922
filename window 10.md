@@ -1,18 +1,22 @@
-Windows 10 is a major release(推出) of the Windows NT operating system developed by Microsoft(微軟).
+## window 10
 
-It is the successor to Windows 8.1, which was released nearly two years earlier,
+Windows 10 is a major release of the Windows NT operating system developed(開發) by Microsoft(微軟).
 
-and itself was released to manufacturing on July 15, 2015, and broadly released for the general public on July 29, 2015.
+It is the successor(接替者) to Windows 8.1, which was released(發布) nearly two years earlier,
 
-Windows 10 was made available for download via MSDN and TechNet,
+and itself was released to manufacturing(製造業) on July 15, 2015, and broadly(廣泛地) released for the general public(一般民眾) on July 29, 2015.
 
-as a free upgrade for retail copies of Windows 8 and Windows 8.1 users via the Windows Store,and to Windows 7 users via Windows Update.
+Windows 10 was made available(可用的) for download via MSDN and TechNet,
 
-Windows 10 receives new builds on an ongoing basis, which are available at no additional cost to users,
+as a free upgrade(升級) for retail copies(零售副本) of Windows 8 and Windows 8.1 users via(通過) the Windows Store,and to Windows 7 users via Windows Update.
 
-in addition to additional test builds of Windows 10, which are available to Windows Insiders.
+Windows 10 receives(收到) new builds on an ongoing basis(處於持續進行狀態), which are available at no additional(額外的) cost(成本) to users,
 
-Devices in enterprise environments can receive these updates at a slower pace, or use long-term support milestones that only receive critical updates,
+in addition to additional test builds(測試版本) of Windows 10, which are available to Windows Insiders(內部人士).
+
+Devices(設備) in enterprise(企業) environments(環境) can receive these updates at a slower pace(速度較慢), 
+
+or use long-term support milestones that only receive critical updates,
 
 such as security patches, over their ten-year lifespan of extended support.
 
