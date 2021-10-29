@@ -22,17 +22,21 @@ or use long-term(長期) support milestones(里程碑) that only receive critica
 
 such as security patches(安全補丁), over their ten-year lifespan(壽命) of extended(擴展) support.
 
-Windows 10 received generally positive reviews(普遍好評) upon(之上) its original release.
+Windows 10 received generally positive reviews(普遍好評) upon(之上) its original(最初) release.
 
-Critics praised Microsoft's decision to provide the desktop-oriented interface in line with previous versions of Windows,
+Critics(評價者) praised(稱讚) Microsoft's decision(決定) to provide the desktop(桌面)-oriented(面向桌面) interface(介面) in line with previous(以前的) versions(版本) of Windows,
 
-contrasting the tablet-oriented approach of Windows 8,
+contrasting(對比) the tablet(平板電腦)-oriented approach(方法) of Windows 8,
 
-although Windows 10's touch-oriented user interface mode was criticized for containing regressions upon the touch-oriented interface of its predecessor.
+although Windows 10's touch(觸碰)-oriented user interface mode was criticized(批評) for containing(包含) regressions(回歸) upon
 
-Critics also praised the improvements to Windows 10's bundled software over Windows 8.1,
+the touch-oriented interface of its predecessor(前身).
 
-Xbox Live integration, as well as the functionality and capabilities of the Cortana personal assistant and the replacement of Internet Explorer with Microsoft Edge.
+Critics also praised the improvements(改進) to Windows 10's bundled(捆綁) software over Windows 8.1,
+
+Xbox Live integration(實時集成), as well as the functionality(功能) and capabilities(功能) of the Cortana personal assistant(個人助理) and
+
+the replacement of Internet Explorer with Microsoft Edge.
 
 However, media outlets have been critical of the changes to operating system behaviors,
 
@@ -46,7 +50,9 @@ Microsoft initially aimed to have Windows 10 installed on over one billion devic
 
  By January 2018, Windows 10 surpassed Windows 7 as the most popular version of Windows worldwide.
 
- As of June 2021, it is estimated that 79% of Windows PCs,58% of all PCs (the rest being older Windows versions and other operating systems such as macOS and Linux),
+ As of June 2021, it is estimated that 79% of Windows PCs,58% of all PCs
+ 
+ (the rest being older Windows versions and other operating systems such as macOS and Linux),
 
 and 24% of all devices (including mobile, tablet and console) are running Windows 10.
 
