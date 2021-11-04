@@ -64,4 +64,4 @@ Windows 10 is the final version of Windows which supports(支援) IA-32 and ARMv
 
 Its successor, Windows 11, requires(需要) 64-bit processor in any supported architecture(結構) (x86-64/AMD64 for x86 and ARMv8 for ARM).
 
-
+Internet site:https://zh.wikipedia.org/wiki/Windows_10
