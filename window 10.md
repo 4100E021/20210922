@@ -36,30 +36,32 @@ Critics also praised the improvements(改進) to Windows 10's bundled(捆綁) so
 
 Xbox Live integration(實時集成), as well as the functionality(功能) and capabilities(功能) of the Cortana personal assistant(個人助理) and
 
-the replacement of Internet Explorer with Microsoft Edge.
+the replacement(替換) of Internet Explorer(IE瀏覽器) with Microsoft Edge(邊緣).
 
-However, media outlets have been critical of the changes to operating system behaviors,
+However, media(媒體) outlets have been critical(危急) of the changes to operating system(操作系統) behaviors,
 
-including mandatory update installation, privacy concerns over data collection performed by the OS for Microsoft and its partners,
+including mandatory(強制的) update installation(更新安裝), 
 
-and adware-like tactics used to promote the operating system on its release.
+privacy(隱私) concerns(關注) over data collection(數據收集) performed(執行) by the OS for Microsoft and its partners(夥伴),
 
-Microsoft initially aimed to have Windows 10 installed on over one billion devices within three years of its release;
+and adware-like(類似廣告軟件) tactics(策略) used to promote(推廣) the operating system on its release.
 
- that goal was ultimately reached almost five years after release on March 16, 2020.
+Microsoft initially(最初) aimed(目標) to have Windows 10 installed(已安裝) on over one billion devices(設備) within three years of its release;
 
- By January 2018, Windows 10 surpassed Windows 7 as the most popular version of Windows worldwide.
+ that goal was ultimately(最終) reached(到達) almost five years after release on March 16, 2020.
 
- As of June 2021, it is estimated that 79% of Windows PCs,58% of all PCs
- 
- (the rest being older Windows versions and other operating systems such as macOS and Linux),
+ By January 2018, Windows 10 surpassed(超過) Windows 7 as the most popular version of Windows worldwide(全世界).
 
-and 24% of all devices (including mobile, tablet and console) are running Windows 10.
+ As of June 2021, it is estimated(估計) that 79% of Windows PCs,58% of all PCs
+  
+ (the rest being older(較舊) Windows versions and other operating systems such as macOS and Linux),
 
-On June 24, 2021, Microsoft announced Windows 10's successor, Windows 11, which was released on October 5, 2021.
+and 24% of all devices (including mobile phone(行動電話), tablet(平板電腦) and console(控制台)) are running(正在運行) Windows 10.
 
-Windows 10 is the final version of Windows which supports IA-32 and ARMv7-based processors (also known as 32-bit processors).
+On June 24, 2021, Microsoft announced(宣布) Windows 10's successor(繼任者), Windows 11, which was released on October 5, 2021.
 
-Its successor, Windows 11, requires 64-bit processor in any supported architecture (x86-64/AMD64 for x86 and ARMv8 for ARM).
+Windows 10 is the final version of Windows which supports(支援) IA-32 and ARMv7-based processors(處理器) (also known as 32-bit processors).
+
+Its successor, Windows 11, requires(需要) 64-bit processor in any supported architecture(結構) (x86-64/AMD64 for x86 and ARMv8 for ARM).
 
 
