@@ -61,3 +61,4 @@ including Firefox web browser(瀏覽器), LibreOffice office software, GIMP imag
 
 Since Linux is free software, anyone can create a Linux package that meets their needs.
 
+Internet site:https://zh.wikipedia.org/wiki/Linux
