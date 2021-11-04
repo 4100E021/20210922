@@ -29,3 +29,5 @@ Python 3.0 was released in 2008 and was a major revision(修訂) of the language
 Python 2 was discontinued(停產) with version 2.7.18 in 2020.
 
 Python consistently(始終如一) ranks(等級) as one of the most popular programming languages.
+
+Internet site:https://en.wikipedia.org/wiki/Python_(programming_language)
